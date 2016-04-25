@@ -198,3 +198,25 @@ C:\Users\ctheriot\Downloads\Gonzo Jerry With Renamed Forms\bin\Debug\VIDEORENTAL
 C:\Users\ctheriot\Downloads\Gonzo Jerry With Renamed Forms\bin\Debug\VIDEORENTAL.xml
 C:\Users\ctheriot\Downloads\Gonzo Jerry With Renamed Forms\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
 C:\Users\ctheriot\Downloads\Gonzo Jerry With Renamed Forms\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\bin\Debug\VIDEORENTAL.exe.config
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\VIDEORENTAL.exe
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\VIDEORENTAL.xml
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\VIDEORENTAL.pdb
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\bin\Debug\ProjectDB1.accdb
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\bin\Debug\VIDEORENTAL.exe
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\bin\Debug\VIDEORENTAL.pdb
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\bin\Debug\VIDEORENTAL.xml
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\OutdoorEquip.vbprojResolveAssemblyReference.cache
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\WindowsApplication1.Add_Update_Screen.resources
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\WindowsApplication1.CustomerOrderInformation.resources
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\WindowsApplication1.MemInfoForm.resources
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\WindowsApplication1.MemInputForm.resources
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\WindowsApplication1.Inventory_directional_screen.resources
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\WindowsApplication1.MDIParent1.resources
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\WindowsApplication1.NewCustomerOrder.resources
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\WindowsApplication1.OrderInformation.resources
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\WindowsApplication1.Order_Entry.resources
+C:\Users\ctheriot\Source\Repos\Gonzo-Outdoors\obj\Debug\OutdoorEquip.vbproj.GenerateResource.Cache
